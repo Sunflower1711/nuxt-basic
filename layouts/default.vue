@@ -5,7 +5,7 @@
                 <h1 class="logo">Shop</h1>
                 <nuxt-link to="/">Main</nuxt-link>
                 <nuxt-link to="/about">About</nuxt-link>
-                <nuxt-link to="/product">Product</nuxt-link>
+                <nuxt-link to="/products">Product</nuxt-link>
             </nav>
         </header>
         <div>
