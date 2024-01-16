@@ -1,20 +1,20 @@
 <template>
     <div class="container">
-        <h1>First Page</h1>
-        <img src="/image/profile.jpg">
+        <h1>เกี่ยวกับผู้พัฒนาเว็บไซต์</h1>
+        <img src="/image/fish.jpg">
     </div>
 </template>
 
 <script setup>
 useHead({
-    title: "Main",
+    title: "About",
     meta: [{
-        name: "description", content: "Frist"
+        name: "description", content: "about Dev"
     }]
 })
 </script>
 
-<style scoped>
+<style  scoped>
 .container {
     display: flex;
     flex-direction: column;
